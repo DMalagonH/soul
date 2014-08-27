@@ -1,0 +1,53 @@
+.boxgrid{ 
+	width: 266px; 
+	height: 250px; 
+	margin:0 15px 13px 0; 
+	float:left; 
+	border:8px solid #ddd;
+	overflow: hidden; 
+	position: relative; 
+	background:#000;
+	
+}
+.boxgrid img{ 
+		position: absolute; 
+		top: 0; 
+		left: 0; 
+		border: 0; 
+		border:1px solid #FFF;
+}
+.boxgrid p{ 
+		color:#999; 
+		padding: 0 15px;
+		margin-top:10px;
+}
+
+.boxgrid p a.title {
+	font-size:18px;
+	color:#eee;
+	line-height:100%;
+
+}
+	
+.boxcaption{  
+	padding-top:10px;
+	font-size:11px;
+	float: left; 
+	position: absolute; 
+	background: #000; 
+	height: 100px; 
+	width: 100%; 
+	opacity: .85; 
+	/* For IE 5-7 */
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=85);
+	/* For IE 8 */
+	-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+}
+.captionfull .boxcaption {
+		top: 250px;
+		left: 0;
+}
+.caption .boxcaption {
+		top: 190px;
+		left: 0;
+}

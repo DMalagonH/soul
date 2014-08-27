@@ -1,0 +1,376 @@
+
+
+body,html {
+
+	background:#000 url(../images/green/bk_body.jpg) 50% 15px no-repeat;
+
+}
+
+
+
+a {
+
+	color:#83B30C;
+
+}
+
+
+
+h1, h1 a {
+
+	color:#333;
+
+}
+
+
+
+h2 {
+
+	color:#333;
+
+}
+
+
+
+h2.comments {
+
+	color:#333;
+
+}
+
+
+
+
+
+ /* LAYOUT STRUCTURE
+
+--------------------------------------------------*/
+
+
+
+#footerInnerBottom {
+
+	background:#000;
+
+	border-top:8px solid #83B30C;
+
+}
+
+
+
+/* HEADER ELEMENTS
+
+------------------------------------------*/
+
+
+
+#logo span {
+
+	color:#999;
+
+}
+
+
+
+/* -- top menu --*/
+
+
+
+#topMenu {
+
+	border-top:1px solid #C1F44A;
+
+	border-right:1px solid #C1F44A;
+
+	background:url(../images/green/bk_top_menu.jpg) 0 0 repeat-x;
+
+	
+
+}
+
+
+
+#topMenu ul.sf-menu li a{
+
+	color:#FFF;
+
+	border-left:1px solid #C1F44A;
+
+	text-shadow:#719C0A 1px 1px;
+
+}
+
+
+
+#topMenu ul.sf-menu li a:hover {
+
+	color:#FFF;
+
+	background:url(../images/green/bk_top_menu_ov.jpg) 0 0 repeat-x;
+
+}
+
+
+
+#topMenu ul.sf-menu li li a:hover {
+
+	background:#89BF0B;
+
+}
+
+
+
+#topMenu ul.sf-menu li li {
+
+	background:#7BAC0A;
+
+	border-bottom:1px solid #C1F44A;
+
+	border-right:1px solid #C1F44A;
+
+}
+
+
+
+/* CONTENT ELEMENTS
+
+--------------------------------------------------*/
+
+
+
+
+
+#homeHeader #headerText {
+
+	color:#999;
+
+}
+
+
+
+#homeHeader #headerText a {
+
+	color:#93CA0C;
+
+}
+
+
+
+
+
+#homeHeader #buttons a {
+
+	background:url(../images/green/but_slider.png) 0 0 no-repeat;
+
+}
+
+
+
+
+
+#innerTop {
+
+	background:url(../images/green/bk_top_inner.jpg) 0 0 no-repeat;
+
+}
+
+
+
+.innerTitle, .innerTitle h1{
+
+    color:#fff;
+
+}
+
+
+
+.innerDesc {
+
+	color:#CCCCCC;
+
+}
+
+
+
+
+
+/* COL LEFT
+
+-------------------------------------------------*/
+
+
+
+
+
+#colLeft .blogItem .postComments {
+
+	background:url(../images/green/bk_ico_comments.png) 0 3px no-repeat;
+
+	text-shadow:#CF4705 1px 1px;
+
+}
+
+
+
+#colLeft .blogItem .postComments a{
+
+	color:#fff;
+
+}
+
+
+
+
+
+/* COL RIGHT
+
+--------------------------------------------------*/
+
+#colRight h2{
+
+	color:#83B30C;
+
+}
+
+
+
+#colRight .boxRight ul li {
+
+	background:url(../images/green/bullet_list_footer.png) 10px 10px no-repeat;
+
+}
+
+
+
+#colRight .testimonialsList ul li {
+
+	background:none;
+
+}
+
+
+
+
+
+#colRight #searchBox h2 {
+
+	color:#666;
+
+}
+
+
+
+/* FOOTER ELEMENTS
+
+--------------------------------------------*/
+
+
+
+
+
+#footer .footerBox h2  {
+
+	color:#333;
+
+}
+
+
+
+
+
+#footer .footerBox ul li {
+
+	background:url(../images/green/bullet_list_footer.png) 0 10px no-repeat;
+
+}
+
+
+
+
+
+/*COMMENTS
+
+---------------------------------------------*/
+
+
+
+#colLeft ul.commentlist .reply a {
+
+	background:url(../images/green/but_reply.png) 0 0 no-repeat;
+
+	color:#fff;
+
+}
+
+
+
+
+
+/* FORMS
+
+-------------------------------------------*/
+
+
+
+#searchform input#searchsubmit {
+
+	background:url(../images/green/but_form.png) 0 0 no-repeat;
+
+	color:#FFF;
+
+}
+
+
+
+/* contact */
+
+
+
+#contact button.submitbutton {
+
+	background:url(../images/green/but_form.png) 0 0 no-repeat;
+
+	color:#FFF;	
+
+}
+
+
+
+.errormsg, .successmsg{
+
+	background:#FEF4F1;
+
+	border:1px solid #F7A68A;
+
+	color:#DA4310;
+
+	padding:10px;
+
+}
+
+
+
+.successmsg {
+
+	background:#F5FAF1;
+
+	border:1px solid #C2E1AA;
+
+	color:#8FA943;
+
+}
+
+
+
+/* post comment */
+
+
+
+#commentform input#submit{
+
+	background:url(../images/green/but_form.png) 0 0 no-repeat;
+
+	color:#FFF;
+
+}
+

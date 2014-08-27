@@ -1,0 +1,11 @@
+.clearfix {
+	display:inline-block;
+}
+
+#colRight h2{ 
+	padding-top:12px;
+}
+
+#colRight h2 span {
+	padding-top:0px;
+}

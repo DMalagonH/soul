@@ -1,0 +1,4 @@
+/* SITE5 WORDPRESS THEME DROPCAPS */
+.dropcapsimple {display:block;float:left;font-size:50px;line-height:40px;margin:0 5px 0 0;}
+.dropcapfancy {display:block;float:left;font-size:50px;line-height:40px;padding:10px; margin:0 5px 0 0;padding:5px;border:1px solid #ccc; border-radius:50px; -moz-border-radius:50px;-webkit-border-radius:50px;}
+.dropcapsquare {display:inline; padding:5px; width:30px; float:left; margin:5px 10px 0 0; font:normal 3.5em/.9em 'Arial narrow', Helvetica, sans-serif; text-align:center; background:#686868; color:#fff;}

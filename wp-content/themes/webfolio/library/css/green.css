@@ -1,0 +1,220 @@
+
+a {
+	color:#B6CA00;
+}
+
+h1, h2, h3 {
+	color:#333;
+}
+
+h1 a{
+	color:#333;
+}
+
+h2 {
+	color:#333;
+}
+
+/* HEADER ELEMENTS
+------------------------------------------*/
+
+nav {
+	border:1px solid #D4F303;
+	border-radius: 6px;
+	background: #c8e000; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c8e000 0%, #A2CC00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8e000), color-stop(100%,#A2CC00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c8e000 0%,#A2CC00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8e000', endColorstr='#A2CC00',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+nav ul.sf-menu li {
+	border-right:1px solid #E2E733;
+}
+
+nav ul.sf-menu li a {
+	color:#F1F5D6;
+	text-shadow:#849D00 1px 1px;
+}
+
+nav ul.sf-menu li li a {
+	color:#F1F5D6;
+	text-shadow:#849D00 1px 1px;
+}
+
+nav ul.sf-menu li a:hover {
+	color:#fff;
+	text-shadow:#849D00 1px 1px;
+}
+
+nav ul.sf-menu li li {
+	
+}
+
+nav ul.sf-menu li ul.children, nav ul.sf-menu li ul.sub-menu{	
+	background:#AAD000;
+}
+
+nav ul.sf-menu li ul.children li a:hover, nav ul.sf-menu li ul.sub-menu li a:hover, nav ul.sf-menu li.page_item ul li a:hover{
+	color:#fff;
+}
+
+nav ul.sf-menu li ul.children li ul.children, nav ul.sf-menu li ul.sub-menu li ul.sub-menu {
+	border:1px solid #E1E632;
+}
+
+#socialIcons li {
+	border-left:1px solid #E2E733;
+}
+
+
+/* CONTENT ELEMENTS
+----------------------------------------------*/
+
+.filterable li a:hover, .filterable li.active a{
+	background:#c8e000;	
+}
+
+.more-link {
+	border:1px solid #D4F303;
+	border-radius: 6px;
+	background: #c8e000; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c8e000 0%, #A2CC00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8e000), color-stop(100%,#A2CC00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c8e000 0%,#A2CC00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8e000', endColorstr='#A2CC00',GradientType=0 ); /* IE6-9 */
+	color:#fff;
+	-webkit-box-shadow: 0 6px 6px -6px #999;
+	-moz-box-shadow: 0 6px 6px -6px #999;
+	box-shadow: 0 6px 6px -6px #999;
+}
+
+article .meta .date{
+	background:url(../images/green/bk_date.png) 0 0 no-repeat;
+	color:#fff;
+}
+
+
+/* COL RIGHT
+-------------------------------------------*/
+
+aside h2{
+	color:#16A3E1;
+}
+
+aside ul li {
+	background:url(../images/green/bullet_list.png) 0 12px no-repeat;
+}
+
+aside ul li a{
+	color:#666;
+}
+
+/* FOOTER ELEMENTS
+--------------------------------------------*/
+
+footer .footerBox h2  {
+	color:#949B0D;
+	border-bottom:1px solid #292929;
+}
+
+footer .footerBox ul li {
+	border-bottom:1px solid #292929;
+	background:url(../images/green/bullet_list.png) 0 13px no-repeat;
+}
+
+
+footer .footerBox ul li a {
+	color:#515151;
+}
+
+footer .footerBox ul li a:hover {
+	color:#949B0D;
+}
+
+footer .footerBox ul#social li {
+	border-bottom:1px solid #292929;
+}
+
+footer .footerBox ul#social li strong{
+	color:#efefef;
+}
+
+#copy a, #site5bottom a, #footerMenu li a{
+	color:#949B0D;
+}
+
+/*COMMENTS
+---------------------------------------------*/
+
+section h2.comments {
+	/*color:#16A3E1;*/
+}
+
+/* FORMS
+------------------------------------------- */
+
+#commentform input#submit{
+	border:1px solid #D4F303;
+	border-radius: 6px;
+	background: #c8e000; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c8e000 0%, #A2CC00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8e000), color-stop(100%,#A2CC00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c8e000 0%,#A2CC00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8e000', endColorstr='#A2CC00',GradientType=0 ); /* IE6-9 */
+	color:#fff;
+	-webkit-box-shadow: 0 6px 6px -6px #999;
+	-moz-box-shadow: 0 6px 6px -6px #999;
+	box-shadow: 0 6px 6px -6px #999;
+}
+
+
+#contactForm button.submitbutton {
+	border:1px solid #D4F303;
+	background: #c8e000; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c8e000 0%, #A2CC00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c8e000), color-stop(100%,#A2CC00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c8e000 0%,#A2CC00 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c8e000 0%,#A2CC00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c8e000', endColorstr='#A2CC00',GradientType=0 ); /* IE6-9 */
+}
+
+/* PORTFOLIO
+------------------------------------------- */
+
+.boxgrid p a.title {
+	font-size:14px;
+	color:#00B1E6 !important;
+}
+
+/* SLIDERS
+------------------------------------------- */
+
+.flex-direction-nav li a { 
+    background-color: rgba(191,200,16,0.5) !important;
+}
+
+.flex-control-nav li a {
+    background:url(../images/green/bg_control_nav.png) 0 0 no-repeat !important;
+}
+
+.nivo-prevNav {
+	background:url(../images/green/but_prev.png) 0 0 no-repeat !important;
+}
+
+.nivo-nextNav {
+	background:url(../images/green/but_next.png) 0 0 no-repeat !important;
+}
